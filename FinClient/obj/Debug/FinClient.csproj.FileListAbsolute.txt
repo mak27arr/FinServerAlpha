@@ -1,0 +1,16 @@
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinClient\obj\Debug\FinClient.csprojResolveAssemblyReference.cache
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinClient\obj\Debug\FinClient.Form1.resources
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinClient\obj\Debug\FinClient.Properties.Resources.resources
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinClient\obj\Debug\FinClient.csproj.GenerateResource.Cache
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinClient\bin\Debug\FinClient.exe.config
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinClient\bin\Debug\FinClient.exe
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinClient\bin\Debug\FinClient.pdb
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinClient\bin\Debug\Newtonsoft.Json.dll
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinClient\bin\Debug\Newtonsoft.Json.xml
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinClient\obj\Debug\FinClient.exe
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinClient\obj\Debug\FinClient.pdb
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinClient\bin\Debug\MessageClassClasic.dll
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinClient\bin\Debug\MessageClassClasic.pdb
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinClient\bin\Debug\FinClient.exe.CodeAnalysisLog.xml
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinClient\bin\Debug\FinClient.exe.lastcodeanalysissucceeded
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinClient\obj\Debug\FinClient.csproj.CoreCompileInputs.cache

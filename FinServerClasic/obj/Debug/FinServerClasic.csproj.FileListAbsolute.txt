@@ -1,0 +1,15 @@
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinServerClasic\obj\Debug\FinServerClasic.csprojResolveAssemblyReference.cache
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinServerClasic\bin\Debug\FinServerClasic.exe.config
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinServerClasic\bin\Debug\FinServerClasic.exe
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinServerClasic\bin\Debug\FinServerClasic.pdb
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinServerClasic\bin\Debug\MessageClassClasic.dll
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinServerClasic\bin\Debug\MessageClassClasic.pdb
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinServerClasic\obj\Debug\FinServerClasic.exe
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinServerClasic\obj\Debug\FinServerClasic.pdb
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinServerClasic\bin\Debug\EntityFramework.dll
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinServerClasic\bin\Debug\EntityFramework.SqlServer.dll
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinServerClasic\bin\Debug\EntityFramework.xml
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinServerClasic\bin\Debug\EntityFramework.SqlServer.xml
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinServerClasic\obj\Debug\FinServerClasic.csproj.CoreCompileInputs.cache
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinServerClasic\bin\Debug\FinServerClasic.exe.CodeAnalysisLog.xml
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\FinServerClasic\bin\Debug\FinServerClasic.exe.lastcodeanalysissucceeded

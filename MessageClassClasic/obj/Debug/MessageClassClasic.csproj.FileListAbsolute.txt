@@ -1,0 +1,10 @@
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\MessageClassClasic\bin\Debug\MessageClassClasic.dll
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\MessageClassClasic\bin\Debug\MessageClassClasic.pdb
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\MessageClassClasic\bin\Debug\Newtonsoft.Json.dll
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\MessageClassClasic\bin\Debug\Newtonsoft.Json.xml
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\MessageClassClasic\obj\Debug\MessageClassClasic.dll
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\MessageClassClasic\obj\Debug\MessageClassClasic.pdb
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\MessageClassClasic\obj\Debug\MessageClassClasic.csprojResolveAssemblyReference.cache
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\MessageClassClasic\obj\Debug\MessageClassClasic.csproj.CoreCompileInputs.cache
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\MessageClassClasic\bin\Debug\MessageClassClasic.dll.CodeAnalysisLog.xml
+\\10.237.2.10\users$\makar\documents\visual studio 2017\Projects\FinServer\MessageClassClasic\bin\Debug\MessageClassClasic.dll.lastcodeanalysissucceeded
